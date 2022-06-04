@@ -1,9 +1,12 @@
-# Fabric Example Mod
+# UniqueName12345 "Improvement" Mod
 
-## Setup
+## NOTE:
+This is not *entirely* cursed, but it features minecraft elements that might be considered "cursed" by people. Luckily, you can enable and disable them at any time
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Description:
 
-## License
+This is a minecraft mod that aims to improve minecraft and it's features by adding stuff that improve on Minecraft's quality.
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## How to Install
+
+WIP
